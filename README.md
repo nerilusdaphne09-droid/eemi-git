@@ -1,1 +1,3 @@
-# Mon premier projet Git
+# TP Git
+
+Mon premier projet avec Git.
